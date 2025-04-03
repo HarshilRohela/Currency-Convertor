@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Convertor</title>
+    <link rel="stylesheet" href="convertor.css"> 
+</head>
+<body>
+    <div class="container">
+        <p class="head">Currency Convertor</p>
+        <form>
+            <div>
+                <p>Enter the Amount</p>
+                <input type="Number" value=100 class="amount">
+            </div>
+            <div class="dropdown">
+                <div class="from">
+                    <p>From</p>
+                    <div>
+                        <img  src="https://flagcdn.com/w320/us.png">
+                        <select name="from">
+                        </select>
+                    </div>
+                </div> 
+                <div class="symbol">
+                    <p>⇄</p>
+                </div>
+                <div class="to">
+                    <p>To</p>
+                    <div>
+                        <img  src="https://flagcdn.com/w320/in.png">
+                        <select name="to">
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <button>Convert</button>
+            <div class>
+                <p class="result"></p>
+            </div>
+        </form>
+    </div>
+    <script src="code.js"></script>
+    <script src="convertor.js"></script>
+</body>
+</html>
