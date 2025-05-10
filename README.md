@@ -14,6 +14,9 @@ HTML
 
 CSS
 
+![image](https://github.com/user-attachments/assets/4a98e164-3cf0-4dd5-8328-45c5bd24376d)
+
+
 JavaScript
 
 API for live exchange rates
