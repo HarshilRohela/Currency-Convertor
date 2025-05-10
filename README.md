@@ -11,12 +11,7 @@ A simple and efficient currency converter web application that allows users to c
 
 🚀 Technologies Used
 HTML
-
 CSS
-
-![image](https://github.com/user-attachments/assets/4a98e164-3cf0-4dd5-8328-45c5bd24376d)
-
-
 JavaScript
 
 API for live exchange rates
@@ -27,3 +22,5 @@ Select the base and target currency
 Enter the amount to convert
 
 Click the "Convert" button to get the result
+
+![image](https://github.com/user-attachments/assets/4a98e164-3cf0-4dd5-8328-45c5bd24376d)
